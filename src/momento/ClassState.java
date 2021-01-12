@@ -1,4 +1,4 @@
-package Momento;
+package momento;
 
 /**
  *  This class represents any ONE of the states of Class.java.

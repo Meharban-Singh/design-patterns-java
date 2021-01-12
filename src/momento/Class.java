@@ -1,4 +1,4 @@
-package Momento;
+package momento;
 
 public class Class {
     private String content;
