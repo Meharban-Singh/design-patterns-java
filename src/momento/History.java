@@ -2,7 +2,7 @@ package momento;
 
 import java.util.Stack;
 
-/**
+/*
  * This class represents the state of the Class Objects.
  * It keeps a stack of states and can be used to undo to the last state.
  */

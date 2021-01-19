@@ -11,6 +11,12 @@ public class ImageRepository {
     private Compressor compressor;
     private Filter filter;
 
+    /**
+     * Initializes a new ImageRepository object
+     *
+     * @param compressor The compressing algorithm to be used to compress each saved image
+     * @param filter The filter to be applied to each image
+     */
     public ImageRepository(Compressor compressor, Filter filter) {
         this.compressor = compressor;
         this.filter = filter;

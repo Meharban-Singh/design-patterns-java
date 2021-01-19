@@ -1,5 +1,13 @@
 package momento;
 
+/*
+ * Momento Design patter
+ * =======================
+ *
+ * A Class can have a lot of ClassStates, which are essentially just snapshots of the
+ * Class. All such class states are associated to a History object, which now keeps track
+ * of the lifetime of Class object changes and it can be used to revert back to any previous state.
+ */
 public class Driver {
     public static void main(String[] args) {
         Class editor = new Class();
