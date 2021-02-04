@@ -9,3 +9,4 @@ This repo is for my design patterns prep. It uses easy to understand examples fo
 - Momento
 - Strategy
 - Composite
+- State
