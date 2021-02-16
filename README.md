@@ -5,9 +5,10 @@ This repo is for my design patterns prep. It uses easy to understand examples fo
 
 ### List of Patterns
 
+- Command
+- Composite
 - Decorator
 - Momento
-- Strategy
-- Composite
-- State
 - Singleton
+- State
+- Strategy
