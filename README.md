@@ -5,6 +5,7 @@ This repo is for my design patterns prep. It uses easy to understand examples fo
 
 ### List of Patterns
 
+- Adapter
 - Command
 - Composite
 - Decorator
