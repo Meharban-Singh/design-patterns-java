@@ -11,6 +11,7 @@ Each folder's `Driver.java` file contains the description of the design pattern.
 - Command
 - Composite
 - Decorator
+- Facade
 - Interpreter
 - Momento
 - Observer
