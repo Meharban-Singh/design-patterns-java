@@ -18,4 +18,5 @@ Each folder's `Driver.java` file contains the description of the design pattern.
 - Singleton
 - State
 - Strategy
+- Template
 - Visitor
