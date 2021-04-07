@@ -9,6 +9,7 @@ Each folder's `Driver.java` file contains the description of the design pattern.
 
 - Adapter
 - Builder
+- Chain of Responsibility
 - Command
 - Composite
 - Decorator
