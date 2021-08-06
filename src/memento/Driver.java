@@ -1,7 +1,7 @@
-package momento;
+package memento;
 
 /*
- * Momento Design patter
+ * Memento Design patter
  * =======================
  *
  * A Class can have a lot of ClassStates, which are essentially just snapshots of the
