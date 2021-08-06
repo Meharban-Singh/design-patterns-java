@@ -15,7 +15,7 @@ Each folder's `Driver.java` file contains the description of the design pattern.
 - Decorator
 - Facade
 - Interpreter
-- Momento
+- Memento
 - Observer
 - Singleton
 - State
